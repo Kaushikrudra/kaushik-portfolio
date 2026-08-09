@@ -200,11 +200,7 @@ const kaushikRudra = {
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushikrudra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikrudra&layout=compact&langs_count=8&theme=dark&cache_seconds=3600" height="180"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikrudra&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Kaushikrudra&theme=github-dark-blue&hide_border=true&card_width=600&background=00000000&fire=A855F7&ring=A855F7&currStreakLabel=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 ---
