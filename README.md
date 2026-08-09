@@ -116,6 +116,16 @@ const kaushikRudra = {
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Kaushikrudra/plivo-server">
+        <strong>📞 Plivo Calling Solution</strong>
+      </a>
+      <br/><br/>
+      Plivo Browser SDK-based call centre replacing Teleforce internally at Edwin Incorporation — multi-agent simultaneous ring, incoming call popups, call history storage & recording proxy.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Plivo-00BF63?style=flat-square&logo=phone&logoColor=white" alt="Plivo" />
     </td>
   </tr>
 </table>
