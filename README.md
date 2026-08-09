@@ -200,7 +200,19 @@ const kaushikRudra = {
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Kaushikrudra&theme=dark&hide_border=true" alt="Kaushikrudra GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushikrudra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikrudra&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikrudra&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Kaushikrudra/Kaushikrudra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
