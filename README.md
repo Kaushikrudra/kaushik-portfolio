@@ -36,7 +36,7 @@
 ```javascript
 const kaushikRudra = {
   role: "AI Full Stack Developer",
-  location: "Jabalpur, India",
+  location: "Jabalpur, India ",
   company: "Edwin Incorporation",
   startup: "Xanvoraa Technologies — Innovating Beyond Limits",
   currentWork: "AI integrations, full-stack tools, client products",
@@ -47,7 +47,7 @@ const kaushikRudra = {
 };
 ```
 
-> *"The best way to predict the future is to invent it."* – Alan Kay
+> *"Talk is cheap. Show me the code."* – Linus Torvalds
 
 ---
 
