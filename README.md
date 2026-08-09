@@ -200,8 +200,8 @@ const kaushikRudra = {
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushikrudra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikrudra&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaushikrudra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=3600" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushikrudra&layout=compact&langs_count=8&theme=dark&cache_seconds=3600" height="180"/>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushikrudra&theme=tokyonight" />
@@ -212,7 +212,11 @@ const kaushikRudra = {
 ## Contribution Snake
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Kaushikrudra/Kaushikrudra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaushikrudra/Kaushikrudra/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaushikrudra/Kaushikrudra/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaushikrudra/Kaushikrudra/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
